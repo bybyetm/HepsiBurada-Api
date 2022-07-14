@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\HepsiBurada Api\HepsiBurada Api\obj\Debug\HepsiBurada Api.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\HepsiBurada Api\HepsiBurada Api\obj\Debug\HepsiBurada Api.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\source\repos\HepsiBurada Api\HepsiBurada Api\obj\Debug\HepsiBurada_Api.Form1.resources
+C:\Users\PC\source\repos\HepsiBurada Api\HepsiBurada Api\obj\Debug\HepsiBurada_Api.Properties.Resources.resources
+C:\Users\PC\source\repos\HepsiBurada Api\HepsiBurada Api\obj\Debug\HepsiBurada Api.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\HepsiBurada Api\HepsiBurada Api\obj\Debug\HepsiBurada Api.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\HepsiBurada Api\HepsiBurada Api\bin\Debug\HepsiBurada Api.exe.config
+C:\Users\PC\source\repos\HepsiBurada Api\HepsiBurada Api\bin\Debug\HepsiBurada Api.exe
+C:\Users\PC\source\repos\HepsiBurada Api\HepsiBurada Api\bin\Debug\HepsiBurada Api.pdb
+C:\Users\PC\source\repos\HepsiBurada Api\HepsiBurada Api\bin\Debug\RestSharp.dll
+C:\Users\PC\source\repos\HepsiBurada Api\HepsiBurada Api\bin\Debug\RestSharp.xml
+C:\Users\PC\source\repos\HepsiBurada Api\HepsiBurada Api\obj\Debug\HepsiBurada Api.csproj.CopyComplete
+C:\Users\PC\source\repos\HepsiBurada Api\HepsiBurada Api\obj\Debug\HepsiBurada Api.exe
+C:\Users\PC\source\repos\HepsiBurada Api\HepsiBurada Api\obj\Debug\HepsiBurada Api.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HepsiBurada Api", "HepsiBurada Api\HepsiBurada Api.csproj", "{5E5BB23A-8B11-4C37-83F1-FD6E788A0BB6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E5BB23A-8B11-4C37-83F1-FD6E788A0BB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E5BB23A-8B11-4C37-83F1-FD6E788A0BB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E5BB23A-8B11-4C37-83F1-FD6E788A0BB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E5BB23A-8B11-4C37-83F1-FD6E788A0BB6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {91A845F4-3DB5-41A4-80CF-E0885ECA0F9F}
+	EndGlobalSection
+EndGlobal
