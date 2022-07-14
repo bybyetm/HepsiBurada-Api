@@ -20,6 +20,9 @@ Yine Hepsiburada tarafından test ortamınıza yüklenecek test siparişlerinin 
 
 Öncelikle Hepsiburada'ya başvurup tarafınıza API Test Ortamınının açılmasını istediğinizi ve gerekli kullanıcı adı ve parolalarını temin ettiğinizi varsayıyoruz.
 
+Gerekli tüm bilgilere buradan erişebilirsiniz
+HepsiBurada Developer Adresi: https://developers.hepsiburada.com/?docs=dokuman/baslangic
+
 Gelelim kod tarafına...
 
 Öncelikle Projemize RestSharp dll'yi dahil ediyoruz. RestSharp dll dosyasını ekleyebilmek için Projeden Nuget paket yöneticisine tıklayarak Gözat sekmesinden RestShap kütüphanesini yüklüyoruz. 
